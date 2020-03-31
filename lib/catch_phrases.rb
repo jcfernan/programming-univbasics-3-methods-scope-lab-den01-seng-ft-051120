@@ -13,3 +13,6 @@ def link
   puts zelda
 end
 
+def all_phrases
+  puts phrase + status + zelda
+end
